@@ -1,0 +1,30 @@
+[
+  {
+    "username": {
+      "result": "valid",
+      "expected_output": "Shouvik",
+      "actual_output": "Shouvik"
+    }
+  },
+  {
+    "email": {
+      "result": "valid",
+      "expected_output": "shouvikghosh206@gmail.com",
+      "actual_output": "shouvikghosh206@gmail.com"
+    }
+  },
+  {
+    "password": {
+      "result": "valid",
+      "expected_output": "shouvik123",
+      "actual_output": "shouvik123"
+    }
+  },
+  {
+    "contact": {
+      "result": "Invalid",
+      "expected_output": "7541064484",
+      "actual_output": "75410644"
+    }
+  }
+]
